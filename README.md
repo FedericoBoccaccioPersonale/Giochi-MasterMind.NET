@@ -12,7 +12,7 @@ Only download the **rar** files to get the working version.
 🇮🇹 Da qui puoi scaricare il gioco base.
 [Ultima versione](https://github.com/FedericoBoccaccioPersonale/Giochi-MasterMind.NET/releases/latest) (Windows)
 
-Sul [repoaitory dedicato](https://github.com/FedericoBoccaccioPersonale/Giochi-MasterMind.NET-Addon) trovi grafiche e IA aggiuntive.
+Sul [repository dedicato](https://github.com/FedericoBoccaccioPersonale/Giochi-MasterMind.NET-Addon) trovi grafiche e IA aggiuntive.
 
 🇬🇧 You can download the base game here.
 [Latest version](https://github.com/FedericoBoccaccioPersonale/Giochi-MasterMind.NET/releases/latest) (Windows)
